@@ -1,5 +1,5 @@
 <a href="https://ibb.co/fY36wjdd"><img src="https://i.ibb.co/gM0qKkZZ/Tumblr-l-104283158232003.png" alt="Tumblr-l-104283158232003" border="0"></a><br /><a target='_blank' href='https://tr.imgbb.com/'></a><br />
-˗ˏˋ꒰ ⚔️ ꒱◡◡ [ata](burgerking.atabook.org)
+˗ˏˋ꒰ ⚔️ ꒱◡◡ [ata](burgerking.atabook.org) ︵ [straw](https://dancingc0rpses.straw.page) ◡◡ ˗ˏˋ꒰ ⚔️ ꒱
 <a href="https://ibb.co/nsJb1J47"><img src="https://i.ibb.co/8DZ0xZGr/Ba-l-ks-z240-20260809104000.png" alt="Ba-l-ks-z240-20260809104000" border="0"></a><
 $$\color{#FFCE4A}{\text{Whatever you do, at the crossroads, dont turn left. }}$$
 
