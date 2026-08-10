@@ -11,6 +11,8 @@
 <a href="https://ibb.co/nsJb1J47"><img src="https://i.ibb.co/8DZ0xZGr/Ba-l-ks-z240-20260809104000.png" alt="Ba-l-ks-z240-20260809104000" border="0"></a><
 $$\color{#FFCE4A}{\text{Whatever you do, at the crossroads, dont turn left. }}$$
 
+<a href="https://ibb.co/rGdLTj4z"><img src="https://i.ibb.co/8DYRTC6f/2b011fff5b4a34a5d302df2381d6ef01.jpg" alt="2b011fff5b4a34a5d302df2381d6ef01" border="0"></a>
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/XZzDQc7c/Ba-l-ks-z242-20260809110526.png" alt="Başlıksız242 20260809110526" border="0"></a><br /><a target='_blank' href='https://tr.imgbb.com/'></a><br/>
 
 <a href="https://ibb.co/hJVK0z5N"><img src="https://i.ibb.co/Pvg5kHpy/Tumblr-l-104295035841376.png" alt="Tumblr-l-104295035841376" border="0"></a><br /><a target='_blank' href='https://tr.imgbb.com/'></a><br />
