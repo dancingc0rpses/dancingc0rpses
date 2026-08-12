@@ -1,5 +1,8 @@
 <a href="https://ibb.co/fY36wjdd"><img src="https://i.ibb.co/gM0qKkZZ/Tumblr-l-104283158232003.png" alt="Tumblr-l-104283158232003" border="0"></a><br /><a target='_blank' href='https://tr.imgbb.com/'></a><br />
 
+$$\color{#F9EF90}{\text{MC BEDROCK : ımsoluckyyay}}$$
+
+
 $$\color{#F9EF90}{\text{imagine ım having award}}$$
 
 
