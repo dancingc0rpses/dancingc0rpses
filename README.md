@@ -2,6 +2,8 @@
    ˗ˏˋ꒰ ⚔️ ꒱◡◡    [straw](https://dancingc0rpses.straw.page) ◡◡ ˗ˏˋ꒰ ⚔️ ꒱
 
 
+![Books](https://komarev.com)
+
 
   
    [ata](burgerking.atabook)
