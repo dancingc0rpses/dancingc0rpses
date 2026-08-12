@@ -2,7 +2,10 @@
    ˗ˏˋ꒰ ⚔️ ꒱◡◡    [straw](https://dancingc0rpses.straw.page) ◡◡ ˗ˏˋ꒰ ⚔️ ꒱
 
 
-![Books](https://komarev.com)
+<p align="left">
+  <img src="https://komarev.com" alt="Ziyaretçi Sayısı" />
+</p>
+
 
 
   
