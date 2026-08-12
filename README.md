@@ -2,11 +2,71 @@
    ˗ˏˋ꒰ ⚔️ ꒱◡◡    [straw](https://dancingc0rpses.straw.page) ◡◡ ˗ˏˋ꒰ ⚔️ ꒱
 
 
-<p align="left">
-  <img src="https://komarev.com" alt="Ziyaretçi Sayısı" />
-</p>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Books - Görüntülenme Sayacı</title>
 
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+        }
 
+        .book {
+            width: 300px;
+            margin: 100px auto;
+            padding: 25px;
+            background: white;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+        }
+
+        .book h1 {
+            margin-bottom: 20px;
+        }
+
+        .views {
+            font-size: 18px;
+            color: #555;
+        }
+
+        .views span {
+            font-weight: bold;
+            color: #222;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="book">
+        <h1>📚 Books</h1>
+
+        <div class="views">
+            👁️ <span id="viewCount">0</span> görüntülenme
+        </div>
+    </div>
+
+    <script>
+        let views = localStorage.getItem("booksViews");
+
+        if (!views) {
+            views = 0;
+        }
+
+        views++;
+
+        localStorage.setItem("booksViews", views);
+
+        document.getElementById("viewCount").textContent = views;
+    </script>
+
+</body>
+</html>
 
   
    [ata](burgerking.atabook)
