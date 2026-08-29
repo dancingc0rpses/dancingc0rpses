@@ -20,8 +20,7 @@ $$\color{#F9EF90}{\text{imagine ım having award}}$$
   
    [ata](burgerking.atabook)
 
-$$\color{#0037AE}{\text{OC Name : kit
-She / her, wearing glasses, having white wings on her head, u can see her in pony town}}$$
+<a href="https://ibb.co/nMv0v9NZ"><img src="https://i.ibb.co/pj8P8cBG/Ba-l-ks-z289-20260829232211.png" alt="Ba-l-ks-z289-20260829232211" border="0"></a>
 
 
    <a href="https://ibb.co/jPpMk1sh"><img src="https://i.ibb.co/21bt3fHq/ff615f3ce177f7b41d09e81b4886966f.jpg" alt="ff615f3ce177f7b41d09e81b4886966f" border="0"></a>
