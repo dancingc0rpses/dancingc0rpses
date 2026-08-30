@@ -7,10 +7,12 @@ $$\color{#F9EF90}{\text{imagine ım having award}}$$
 
 $$\color{yellow}{\text{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⤷⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⤷⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⤷}}$$
 
+<a href="https://ibb.co/7t9cs1w9"><img src="https://i.ibb.co/fdcRjxhc/Tumblr-l-42592656908083.png" alt="Tumblr-l-42592656908083" border="0"></a>
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/NdQ6VjKB/Tumblr-l-42349210614891.png" alt="Tumblr l 42349210614891" border="0"></a>
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/NdQ6VjKB/Tumblr-l-42349210614891.png" alt="Tumblr l 42349210614891" border="0"></a>
+<a href="https://ibb.co/c9Ln0qM"><img src="https://i.ibb.co/t6XrgRk/Tumblr-l-42673453707550.gif" alt="Tumblr-l-42673453707550" border="0"></a> 
 
 
 
