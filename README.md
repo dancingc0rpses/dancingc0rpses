@@ -1,6 +1,6 @@
 <a href="https://ibb.co/jP8nzdJy"><img src="https://i.ibb.co/sdg8ChWK/Tumblr-l-27818915144712.png" alt="Tumblr-l-27818915144712" border="0"></a>
 
-https://komarev.com/ghpvc/?username=dancingc0rpses&style=flat-square&color=FFC300&label=⛏️
+![](https://komarev.com/ghpvc/?username=dancingc0rpses&style=flat-square&color=FFC300&label=(enchantedpickaxe) ) <div align="center">
 
 $$\color{#F9EF90}{\text{MC BEDROCK : ımsoluckyyay}}$$
 
